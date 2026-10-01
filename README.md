@@ -15,3 +15,5 @@ absorbing layer is also investigated. The method reliability is validated by com
 to other numerical predictions and experimental measurements. Finally, the specific case of
 wind turbine noise propagation is assessed by applying experimental data to the developed
 code. The results are compared to in-situ measurements.
+
+Link to Master's thesis <here>(https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/54063/Thesis%20on%20noise%20propagation_Kappatou%20Christine.pdf?sequence=1). 
